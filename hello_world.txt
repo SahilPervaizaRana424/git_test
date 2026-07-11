@@ -1,1 +1,2 @@
-Hello my name is Sahil Rana what is your name what are you thinking right now like where your mind is diverting i dont know the platsers that happended in my way
+Hello my name is Sahil Rana!
+This is my first git repository due to THE ODIN PROJECT
